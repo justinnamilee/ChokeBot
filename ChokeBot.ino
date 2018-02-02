@@ -3,7 +3,7 @@
     Justin Lee -- GPLv3 -- justin at taiz dot me
 
   >> WARNING: ROBOT CLAWS ARE TO BE USED <<
-  >> SOLELY FOR THE PURPOSE OF CHOCKING, <<
+  >> SOLELY FOR THE PURPOSE OF CHOKING,  <<
   >> STRANGLING, AND EROTIC PLEASURE.    <<
 
 */
