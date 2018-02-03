@@ -1,6 +1,7 @@
 /*
     CHOKEBOT (v2.69b)
-    Justin Lee -- GPLv3 -- justin at taiz dot me
+    Justin Lee -- GNU GPLv3 or above-- 
+    Copyright 2016-2018 < justin at taiz dot me >
 
   >> WARNING: ROBOT CLAWS ARE TO BE USED <<
   >> SOLELY FOR THE PURPOSE OF CHOKING,  <<
